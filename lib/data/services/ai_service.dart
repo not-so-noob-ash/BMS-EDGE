@@ -14,7 +14,7 @@ class AIService {
   final FirebaseFirestore _firestore = FirebaseFirestore.instance;
   
   // Your API key is correctly placed here.
-  final String _apiKey = "PUT YOUR API KEY HERE";
+  final String _apiKey = "AIzaSyDfsnMN0sgB-1_IxVXkHnqKDpLc8LZI2S0";
   
   final String _modelUrl =
       'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent';
