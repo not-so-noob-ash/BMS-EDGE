@@ -1,0 +1,111 @@
+{
+  "holidays": [
+    { "name": "Ganesh Chaturthi", "date": "2025-08-27" },
+    { "name": "Id-Meelad", "date": "2025-09-05" },
+    { "name": "Mahanavami", "date": "2025-10-01" },
+    { "name": "Gandhi Jayanthi / Vijayadashami", "date": "2025-10-02" },
+    { "name": "Valmiki Jayanthi", "date": "2025-10-07" },
+    { "name": "Naraka Chathurdasi", "date": "2025-10-20" },
+    { "name": "Balipadyami", "date": "2025-10-22" }
+  ],
+  "academicTasks": [
+    {
+      "title": "Course Registration (BE VII Sem)",
+      "date": "2025-08-22",
+      "type": "Administrative",
+      "assignedBy": "Academics Office",
+      "details": "Course Registration for BE VII Semester students for the 2025-26 ODD semester."
+    },
+    {
+      "title": "Commencement of VII Semester Classes",
+      "date": "2025-08-25",
+      "type": "Academic",
+      "assignedBy": "Academics Office",
+      "details": "First day of classes for the VII Semester."
+    },
+    {
+      "title": "Announcement of Continuous Comprehensive Assessments",
+      "date": "2025-09-18",
+      "type": "Academic",
+      "assignedBy": "Academics Office",
+      "details": "Official announcement of CCA components and schedule."
+    },
+    {
+      "title": "Major Project Phase II Review 1",
+      "date": "2025-09-26",
+      "type": "Evaluation",
+      "assignedBy": "Department",
+      "details": "First review for Major Project Phase II."
+    },
+    {
+      "title": "IA1 QPs Scrutiny",
+      "date": "2025-10-03",
+      "type": "Examination",
+      "assignedBy": "Exam Department",
+      "details": "Scrutiny of Internal Assessment 1 Question Papers."
+    },
+    {
+      "title": "Internal Assessment 1",
+      "date": "2025-10-10",
+      "type": "Examination",
+      "assignedBy": "Exam Department",
+      "details": "Internal Assessment 1 (IA1) examinations begin."
+    },
+    {
+      "title": "Deadline: Enter IA1 Marks",
+      "date": "2025-10-21",
+      "type": "Academic Deadline",
+      "assignedBy": "Academics Office",
+      "details": "Last date for faculty to enter Internal Assessment 1 marks into the Contineo Portal."
+    },
+    {
+      "title": "Parent-Teachers Meeting",
+      "date": "2025-10-24",
+      "type": "Administrative",
+      "assignedBy": "Academics Office",
+      "details": "Parent-Teachers meeting for the VII Semester."
+    },
+    {
+      "title": "Deadline: Finalization of CCA1",
+      "date": "2025-10-31",
+      "type": "Academic Deadline",
+      "assignedBy": "Academics Office",
+      "details": "Finalize all marks and records for Continuous Comprehensive Assessment 1."
+    },
+    {
+      "title": "Major Project Phase II Review 2",
+      "date": "2025-11-21",
+      "type": "Evaluation",
+      "assignedBy": "Department",
+      "details": "Second review for Major Project Phase II."
+    },
+    {
+      "title": "Internal Assessment 2",
+      "date": "2025-11-28",
+      "type": "Examination",
+      "assignedBy": "Exam Department",
+      "details": "Internal Assessment 2 (IA2) examinations begin."
+    },
+    {
+      "title": "Deadline: Enter IA2 Marks",
+      "date": "2025-12-05",
+      "type": "Academic Deadline",
+      "assignedBy": "Academics Office",
+      "details": "Last date for faculty to enter Internal Assessment 2 marks into the Contineo Portal."
+    },
+    {
+      "title": "Deadline: Freezing CIE Marks & Attendance",
+      "date": "2025-12-10",
+      "type": "Academic Deadline",
+      "assignedBy": "Academics Office",
+      "details": "Final day to freeze all CIE marks and attendance records in the Contineo Portal."
+    },
+    {
+      "title": "Last Working Day of VII Semester",
+      "date": "2025-12-11",
+      "type": "Academic",
+      "assignedBy": "Academics Office",
+      "details": "Official last working day for the VII Semester."
+    }
+  ]
+}
