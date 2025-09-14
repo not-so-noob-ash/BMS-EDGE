@@ -1,0 +1,46 @@
+# ================================
+# Flutter & Dart
+# ================================
+# Build outputs
+build/
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE configs
+*.iml
+.idea/
+.vscode/
+android/.gradle/
+android/.settings/
+android/.classpath
+android/.project
+*.lock
+
+# Dependency & cache
+.pub-cache/
+.pub/
+
+# ================================
+# Firebase Configs
+# ================================
+# Google Services files (keep local, don’t commit)
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+web/firebase-config.js
+firebase.json
+firebaserc
+
+# ================================
+# Sensitive Files
+# ================================
+.env
+*.env
+lib/data/services/ai_service.dart   # contains Gemini API key
+
+# ================================
+# OS generated files
+# ================================
+.DS_Store
+Thumbs.db
